@@ -1,10 +1,7 @@
 {
   "hosting": {
+    "site": "fir-testing-f1204",
     "public": "dist",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
   }
 }
